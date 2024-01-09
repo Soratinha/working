@@ -1,2 +1,2 @@
 # working
-Some things I did.
+Study exercises, projects, some things i did.
